@@ -1,0 +1,1 @@
+E:\BT_Flutter\lab9\clima\android\app\src\main\kotlin\com\example\clima\MainActivity.kt
